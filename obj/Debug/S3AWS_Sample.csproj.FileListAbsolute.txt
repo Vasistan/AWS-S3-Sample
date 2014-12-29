@@ -1,0 +1,20 @@
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\bin\Debug\S3AWS_Sample.exe.config
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\bin\Debug\S3AWS_Sample.exe
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\bin\Debug\S3AWS_Sample.pdb
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\bin\Debug\AWSSDK.dll
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\bin\Debug\AWSSDK.pdb
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\obj\Debug\S3AWS_Sample.Properties.Resources.resources
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\obj\Debug\S3AWS_Sample.csproj.GenerateResource.Cache
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\obj\Debug\S3AWS_Sample.exe
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\obj\Debug\S3AWS_Sample.pdb
+D:\Vasistan\Main_Projects\Cloud Hosting\Amazon\code sample\SampleSQSS3\SampleSQSS3\SampleSQSS3\S3AWS_Sample\obj\Debug\S3AWS_Sample.frmS3Access.resources
+E:\Samples\S3AWS_Sample\bin\Debug\S3AWS_Sample.exe.config
+E:\Samples\S3AWS_Sample\obj\Debug\S3AWS_Sample.exe
+E:\Samples\S3AWS_Sample\obj\Debug\S3AWS_Sample.pdb
+E:\Samples\S3AWS_Sample\bin\Debug\S3AWS_Sample.exe
+E:\Samples\S3AWS_Sample\bin\Debug\S3AWS_Sample.pdb
+E:\Samples\S3AWS_Sample\bin\Debug\AWSSDK.pdb
+E:\Samples\S3AWS_Sample\obj\Debug\S3AWS_Sample.csprojResolveAssemblyReference.cache
+E:\Samples\S3AWS_Sample\obj\Debug\S3AWS_Sample.frmS3Access.resources
+E:\Samples\S3AWS_Sample\obj\Debug\S3AWS_Sample.Properties.Resources.resources
+E:\Samples\S3AWS_Sample\obj\Debug\S3AWS_Sample.csproj.GenerateResource.Cache
